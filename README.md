@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Emmanuel-2KLM7
-- 👀 I’m interested in web and mobile development
-- 💞️ I’m looking to collaborate on a web project in order to learn more from others.
+- 👀 I’m Odoo Developer
 - 📫 you can reach me by writing to me in my mailbox: emmanuelkisimba2807@gmail.com
 
 <!---
